@@ -9,7 +9,7 @@
 
 真的才开发了10天左右啊！没什么好公开的，除非您加入  UML Insider Project。
 
-# 加入 UML Insider Project。
+# 加入 UML Insider Project
 
 ## 加入方式
 只需到哔哩哔哩私聊我即可。
