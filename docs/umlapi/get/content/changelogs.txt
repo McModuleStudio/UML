@@ -1,4 +1,5 @@
 2021/9/19 Insider Preview
+
 更新了github仓库，创建了umlapi，开通了github pages。
 更新了启动器获取github仓库中的更新日志。
 更新了自动寻找Java。
